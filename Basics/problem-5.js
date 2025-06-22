@@ -1,4 +1,4 @@
-// 6. Check Leap Year (Gregorian Calendar)
+// 5. Check Leap Year (Gregorian Calendar)
 
 // Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.  
 
